@@ -1,0 +1,6 @@
+Grade,Label,Train,Val,Test
+0,No DR,1444,180,181
+1,Mild,296,37,37
+2,Moderate,799,100,100
+3,Severe,154,20,19
+4,Proliferative DR,236,29,30

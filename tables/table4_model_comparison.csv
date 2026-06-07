@@ -1,0 +1,4 @@
+Model,Accuracy,Quadratic WK,Macro F1,Macro AUC
+Custom CNN,0.6785,0.6404,0.4711,0.8607
+ResNet50,0.6240,0.6709,0.4305,0.8711
+MobileNetV2,0.6267,0.6647,0.4589,0.8935
